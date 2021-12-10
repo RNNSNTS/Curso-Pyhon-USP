@@ -1,0 +1,10 @@
+P1 = input ("Digite a primeira nota:")
+p1 = float(P1)
+P2 = input ("Digite a segunda nota:")
+p2 = float(P2)
+P3 = input ("Digite a terceira nota:")
+p3 = float(P3)
+P4 = input ("Digite a quarta nota:")
+p4 = float(P4)
+media = (p1 + p2 + p3 + p4)/ 4
+print (media)
